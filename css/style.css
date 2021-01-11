@@ -1,29 +1,47 @@
-body{
+body {
     background-color: bisque;
 }
-h1{
+
+h1 {
     background-color: chocolate;
     color: white;
     text-align: center;
 }
-#first{
-background-color: sienna;
-color: snow;
-text-align: center;
+
+#first {
+    background-color: sienna;
+    color: snow;
+    text-align: center;
 }
-h2{
-background-color: turquoise;
-color: sienna;
-text-align: center;
+
+h2 {
+    background-color: turquoise;
+    color: sienna;
+    text-align: center;
 }
-#style{
-background-color: teal;
-color: seashell;
-text-align: center;
+
+#style {
+    background-color: teal;
+    color: seashell;
+    text-align: center;
 }
-ol{
-background-color: salmon;
+
+ol {
+    background-color: salmon;
 }
-li{
-    color:teal;
+
+li.dwa {
+    color: turquoise;
+}
+
+.trzy {
+    color: sienna;
+}
+
+.cztery {
+    color: teal;
+}
+
+.five {
+    color:  seashell;
 }
