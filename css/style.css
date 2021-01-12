@@ -30,6 +30,10 @@ ol {
     background-color: salmon;
 }
 
+li.one{
+    color: snow;
+}
+
 li.dwa {
     color: turquoise;
 }
